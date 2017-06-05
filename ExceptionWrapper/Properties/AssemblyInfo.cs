@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ExceptionWrapper")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Basic Exception Wrapper Library")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Kaven Gagne")]
 [assembly: AssemblyProduct("ExceptionWrapper")]
 [assembly: AssemblyCopyright("Copyright Kaven Gagne 2016")]
 [assembly: AssemblyTrademark("")]

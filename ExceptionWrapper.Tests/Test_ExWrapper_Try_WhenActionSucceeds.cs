@@ -28,7 +28,7 @@ namespace ExceptionWrapper.Tests
                 () => 1 + 1,
                 ex => { isOnErrorExecuted = true; });
 
-            Assert.AreEqual(1, returnValue);
+            Assert.AreEqual(2, returnValue);
             Assert.IsFalse(isOnErrorExecuted);
         }
     }
